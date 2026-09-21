@@ -7,15 +7,11 @@
 <img width="667" height="617" alt="image" src="https://github.com/user-attachments/assets/2ab72d77-7ba5-4b76-b175-344b0649a177" />
 <img width="622" height="172" alt="image" src="https://github.com/user-attachments/assets/d4958804-9629-445e-8652-f26394783512" />
 
-
 ## Kicad circuit diagram
 <img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/d34d6a71-fb65-41cf-b35a-437821bfc2ec" />
-
 ## output waveform
 <img width="1410" height="749" alt="image" src="https://github.com/user-attachments/assets/a7915dc7-e8b9-4f6d-833f-3bc4bf29a2d4" />
-
 ## PCB DESIGN
 <img width="1013" height="1600" alt="image" src="https://github.com/user-attachments/assets/9312496d-969c-4d21-8491-b3ff88453e07" />
-
 ## result
 <img width="1000" height="1600" alt="image" src="https://github.com/user-attachments/assets/88098325-e7de-483d-8524-6751bf4dafee" />
