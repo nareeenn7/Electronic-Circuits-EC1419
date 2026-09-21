@@ -9,8 +9,11 @@
 
 
 ## ADS circuit diagram
+<img width="1366" height="857" alt="image" src="https://github.com/user-attachments/assets/20d01e4d-0809-4b3b-8277-a742c699df4f" />
 
 
 ## output waveforms
+<img width="1550" height="1046" alt="image" src="https://github.com/user-attachments/assets/7b896ee1-85f7-47ff-a06b-4fdc34ac8062" />
 
 ## result
+<img width="1380" height="1600" alt="image" src="https://github.com/user-attachments/assets/3c02e3e1-66dd-436b-b35d-061aac0e9b68" />
