@@ -5,7 +5,7 @@
 <img width="612" height="143" alt="image" src="https://github.com/user-attachments/assets/aaee80f4-8cd4-4efc-9854-71763bcd4bfc" />
 
 
-## LT spice circuit diagram
+## circuit diagram
 <img width="1600" height="1181" alt="image" src="https://github.com/user-attachments/assets/cc9a1917-0835-454c-98be-9d0da7907284" />
 
 ## output graph
