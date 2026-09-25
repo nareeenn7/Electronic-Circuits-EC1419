@@ -23,6 +23,10 @@
 <img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/90c56fdf-6e67-4d9f-b4d2-7e9b93a06536" />
 
 
+## CALCULATION 
+<img width="896" height="1383" alt="image" src="https://github.com/user-attachments/assets/47ec7649-fb04-4ed4-ac71-b19af917f9d5" />
+
+
 ## LT spice output graph
 <img width="1518" height="921" alt="image" src="https://github.com/user-attachments/assets/4d483437-a8a8-4873-9483-e10a1a0f2e7d" />
 
